@@ -38,7 +38,6 @@ View the [changelog](https://github.com/ankane/pghero/blob/master/CHANGELOG.md)
 ## Contributing
 
 Everyone is encouraged to help improve this project. Here are a few ways you can help:
-
 - [Report bugs](https://github.com/ankane/pghero/issues)
 - Fix bugs and [submit pull requests](https://github.com/ankane/pghero/pulls)
 - Write, clarify, or fix documentation
